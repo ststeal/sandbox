@@ -1,0 +1,21 @@
+.content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.table {
+    width: 600px;
+    margin: 10px;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    background: silver;
+}
+
+.cell {
+    max-width: 200px;
+    padding: 5px;
+}
